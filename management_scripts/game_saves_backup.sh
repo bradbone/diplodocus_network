@@ -72,6 +72,11 @@ cp -vR /home/brad/.local/share/SteamWorldDig/ /home/brad/triceratops/backup/Game
 # Dawn of War II
 #cp -vR /home/brad/.local/share/feral-interactive/Dawn\ of\ War\ II/SaveData/ /home/brad/triceratops/backup/Game\ Saves/Dawn\ of\ War\ II/
 
+# Victor Vran
+cp -vR /home/brad/.local/share/Victor Vran/Victor Vran/ /home/brad/triceratops/backup/Game\ Saves/Victor\ Vran/
+
+
+
 # The following game saves are currently residing on the attached Windows partition. 
 # This may need updating if the hard drive id ever changes
 
