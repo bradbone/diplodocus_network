@@ -73,7 +73,7 @@ cp -vR /home/brad/.local/share/SteamWorldDig/ /home/brad/triceratops/backup/Game
 #cp -vR /home/brad/.local/share/feral-interactive/Dawn\ of\ War\ II/SaveData/ /home/brad/triceratops/backup/Game\ Saves/Dawn\ of\ War\ II/
 
 # Victor Vran
-cp -vR /home/brad/.local/share/Victor Vran/Victor Vran/ /home/brad/triceratops/backup/Game\ Saves/Victor\ Vran/
+cp -vR /home/brad/.local/share/Victor\ Vran/Victor\ Vran/ /home/brad/triceratops/backup/Game\ Saves/Victor\ Vran/
 
 
 
